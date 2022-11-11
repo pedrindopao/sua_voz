@@ -1,0 +1,1 @@
+alert("É proibido palavrões e palavras de ódio");
